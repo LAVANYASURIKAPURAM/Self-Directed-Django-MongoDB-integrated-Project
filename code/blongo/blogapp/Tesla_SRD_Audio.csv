@@ -1,0 +1,18 @@
+﻿"Requirement_ID","Object Text","Created By","Created On","Last Modified By","Last Modified On","IsRequirement"
+"SRD-TPL-217"," 
+Acronym	Definition	   
+HRT	Hard Real-Time Layer	   
+SRT	Soft Real-Time Layer	   
+GUI	Graphical User Interface	   
+OEM	Original Equipment Manufacturer	   
+OFCB	Oximetry Feature Configuration Block	   
+Pleth	Plethysmographic Waveform	   
+PI	Perfusion Index	 
+","olartc1","17 April 2015","olartc1","17 April 2015","TRUE"
+"SRD-TPL-212",,"tarapi1","11 March 2015","tarapi1","11 March 2015","TRUE"
+"SRD-TPL-213","The HRT shall playback an audio wave file from the File System using a sample rate at 22.05kHz.","fostem1","17 April 2015","olartc1","17 April 2015","TRUE"
+"SRD-TPL-218","The HRT shall record an audio wave file to the File System using a sample rate 22.05kHz.
+","olartc1","17 April 2015","olartc1","17 April 2015","TRUE"
+"SRD-TPL-219","The HRT shall collect ambient noise when using a microphone as an input.
+","olartc1","17 April 2015","olartc1","17 April 2015","TRUE"
+"SRD-TPL-214","This is another dummy requirement","fostem1","17 April 2015","fostem1","17 April 2015","TRUE"
